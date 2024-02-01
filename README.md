@@ -25,5 +25,8 @@ Fusionar la Rama con Master/Main:
 Y fusionas la rama "Modulo-1" con "master/main":
 > git merge Modulo-1
 
+En caso de no permitir fusionar:
+> git merge Modulo-1 --allow-unrelated-histories
+
 Eliminar la Rama:
 > git branch -d Modulo-1
