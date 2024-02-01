@@ -1,4 +1,4 @@
-# Aquí están los pasos básicos que seguirías en la línea de comandos de Git:
+# Guía básica sobre el uso de branchs:
 
 Verificar la Rama Actual:
 > git branch
