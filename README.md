@@ -1,3 +1,3 @@
 # Maestría en Ciencia de Datos
-## Curso: Ingeniería de Características
+## Curso: Ingeniería de Datos
 ### 2024-1
